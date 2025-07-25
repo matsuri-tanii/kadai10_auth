@@ -29,3 +29,4 @@ try {
 
 header("Location:read.php");
 exit();
+
